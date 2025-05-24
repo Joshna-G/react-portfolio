@@ -1,8 +1,7 @@
-import aboutPromoImg from '../../assets/about-promo.svg';
+import aboutPromoImg from '../../assets/home-main.png';
 import BaseLayout from '../../layouts/BaseLayout/BaseLayout';
 import s from './About.module.scss';
 import AboutTextCard from './AboutTextCard/AboutTextCard';
-import GithubActivity from './GithubActivity/GithubActivity';
 import TechSkills from './TechSkills/TechSkills';
 
 const About = () => {

@@ -1,6 +1,6 @@
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import handIcon from '../../../assets/hand.png';
-import homeMainIcon from '../../../assets/home-main.svg';
+import homeMainIcon from '../../../assets/home-main.png';
 import Typewriter from '../../../components/UIElements/Typewriter/Typewriter';
 import s from './MainSection.module.scss';
 
@@ -42,8 +42,8 @@ const MainSection = () => {
         effect="blur"
         src={homeMainIcon}
         wrapperClassName={s.homeMainIcon}
-        width="396"
-        height="400"
+        width="600"
+        height="350"
       />
     </section>
   );

@@ -1,10 +1,8 @@
 import { AiFillGithub } from '@react-icons/all-files/ai/AiFillGithub';
-import { FaFacebookSquare } from '@react-icons/all-files/fa/FaFacebookSquare';
 import { FaLinkedinIn } from '@react-icons/all-files/fa/FaLinkedinIn';
-import { FaTelegramPlane } from '@react-icons/all-files/fa/FaTelegramPlane';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import Tilt from 'react-parallax-tilt';
-import avatar from '../../../assets/avatar.svg';
+import avatar from '../../../assets/avatar.png';
 import s from './IntroSection.module.scss';
 
 const IntroSection = () => {
@@ -73,29 +71,7 @@ const IntroSection = () => {
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://www.facebook.com/Snaychuk"
-              target="_blank"
-              rel="noreferrer"
-              className={s.socialIcon}
-              aria-label="facebook"
-            >
-              <FaFacebookSquare />
-            </a>
-          </li>
-          <li className={s.socialLink}>
-            <a
-              href="https://t.me/snaichuk_v"
-              target="_blank"
-              rel="noreferrer"
-              className={s.socialIcon}
-              aria-label="telegram"
-            >
-              <FaTelegramPlane />
-            </a>
-          </li>
-          <li className={s.socialLink}>
-            <a
-              href="https://www.linkedin.com/in/volodymyr-snaichuk-74a389124/"
+              href="https://www.linkedin.com/in/joshna-g-b8a265367/"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}

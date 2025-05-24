@@ -29,27 +29,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="https://www.facebook.com/Snaychuk"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="facebook"
-              >
-                <FaFacebookSquare />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://t.me/snaichuk_v"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="TelegramPlane"
-              >
-                <FaTelegramPlane />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.linkedin.com/in/volodymyr-snaichuk-74a389124/"
+                href="https://www.linkedin.com/in/joshna-g-b8a265367/"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="linkedin"

@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 2. **Clone the repository**:
    Open your terminal (or Git Bash) and run the following command to clone the repository:
    ```bash
-   git clone https://github.com/vsnaichuk/react-portfolio
+   git clone https://github.com/Joshna-G/react-portfolio
    ```
 3. **Navigate to the project directory:**
 
@@ -55,12 +55,10 @@ To run this project locally, follow these steps:
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out!
 
 - **Email**: v.snaichuk@gmail.com
-- **GitHub**: [vsnaichuk](https://github.com/vsnaichuk)
-- **LinkedIn**: [vsnaichuk](https://www.linkedin.com/in/vsnaichuk/)
+- **GitHub**: [vsnaichuk](https://github.com/Joshna-G)
+- **LinkedIn**: [vsnaichuk](https://www.linkedin.com/in/joshna-g-b8a265367/)
 - **Twitter**: [v_snaichuk](https://twitter.com/v_snaichuk)
 
 Looking forward to hearing from you!
 
-## Credits
 
-Website design inspired by [Soumyajit4419's portfolio](https://github.com/soumyajit4419/Portfolio)

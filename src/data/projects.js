@@ -101,7 +101,7 @@ efforts by 70%`,
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://apps.apple.com/us/app/minfin-currency-rates/id1574863878',
+      site: 'https://lms.caddcentre.com/v1/login',
     },
     technologies: [
       '#typescript',
@@ -117,7 +117,7 @@ efforts by 70%`,
   },
   {
     id: '5',
-    title: 'Apiko Marketplace',
+    title: 'TODO List App',
     description:
       'An online marketplace made with React. The project was developed on 8th Apiko Intensive.',
     image: {
@@ -126,15 +126,15 @@ efforts by 70%`,
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      repo: 'https://github.com/vsnaichuk/apiko-marketplace-app',
+      repo: 'https://github.com/Joshna-G/TODOLIST',
     },
     technologies: [
       '#react',
       '#redux',
-      '#socket.io',
-      '#scss',
-      '#formik',
-      '#react-window',
+      '#Mysql',
+      '#nodejs',
+      '#react hooks',
+      '#express js',
       '#restapi',
     ],
   },
