@@ -4,14 +4,11 @@ const data = [
     title: 'HomeAppliances Service App',
 description:
       `Designed a dynamic booking system with full CRUD operations
-and secure RESTful APIs using Axios.
-Implemented user authentication and session management for
-seamless booking experiences.
-Built a responsive UI (React, Bootstrap) for improved usability.
-Impact: Achieved 95% data consistency, optimizing service
-scheduling and enhancing user experience.`,
+and secure RESTful APIs using Axios.Implemented user authentication and session management for
+seamless booking experiences.Built a responsive UI (React, Bootstrap) for improved usability.
+`,
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1721484550/portfolio/projects/SallyPOS/1111_mfdzqt.png',
+      // src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1721484550/portfolio/projects/SallyPOS/1111_mfdzqt.png',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
@@ -34,16 +31,11 @@ scheduling and enhancing user experience.`,
     title: 'Real-Time Chat App',
     description:
       `Developed a high-performance chat application with private
-messaging, online presence tracking, and read receipts.
-Integrated WebSockets (Socket.io) for real-time
-communication with auto-reconnection and heartbeat
-monitoring.
-Optimized MySQL queries with indexing, improving data
-retrieval speed by 40%.
-Built a responsive UI (React, Material-UI) with animations and
+messaging, online presence tracking, and read receipts.Integrated WebSockets (Socket.io) for real-timecommunication with auto-reconnection and heartbeat
+monitoring.Optimized MySQL queries with indexing, and
 error handling for an intuitive experience`,
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1727717856/portfolio/projects/react-native-yoco_b3bjph.png',
+      // src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1727717856/portfolio/projects/react-native-yoco_b3bjph.png',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
@@ -67,11 +59,8 @@ error handling for an intuitive experience`,
     title: 'Pet Shop Management App',
 description:
       `Developed an inventory and order management system with
-customer account controls.
-Integrated secure authentication and a responsive frontend
-for tracking products and orders.
-Impact: Automated MySQL queries, reducing manual tracking
-efforts by 70%`,
+customer account controls. Integrated secure authentication and a responsive frontend for tracking products and orders.
+`,
     image: {
       src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671564532/portfolio/projects/Syntho/Screenshot_2022-12-20_at_21.26.17_1_c59hzo.jpg',
       placeholderSrc:
@@ -94,11 +83,10 @@ efforts by 70%`,
     title: 'LMS Web App',
 
     description:
-      'Minfin Currency - application with all necessary information about currency: from currency rates - to the nearest places where you can exchange currency in your city.',
+      'The Learning Management System (LMS) is a web-based platform designed to streamline online education by offering essential features for students and administrators. It includes student registration, login with OTP authentication, and profile management. Students can register for courses, make inquiries, and access digital resources like e-books. .',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671563302/portfolio/projects/minfin/Screenshot_2022-12-20_at_21.06.43_vl5h6k.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+      src: 'src/assets/lmspro.jpg',
+     placeholderSrc: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjcwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iNzAiIGZpbGw9IiNlMGUwZTAiLz48L3N2Zz4=',
     },
     links: {
       site: 'https://lms.caddcentre.com/v1/login',
