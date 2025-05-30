@@ -128,11 +128,11 @@ customer account controls. Integrated secure authentication and a responsive fro
   },
   {
     id: '6',
-    title: 'eCommerce Mobile App',
+    title: 'Video Streaming App',
     description:
-      'A Mobile eCommerce application built with React Native that includes cart functionality, push notifications, user authentication and user orders',
+      'Built a secure HLS video streaming app using FFmpeg, with AES-128 encryption for DRM protection and token-based access control to prevent piracy.',
     image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/rn-shop/rn-shop-lg_fofglf.jpg',
+     src: "src/assets/vStreamPro.jpg",  
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
